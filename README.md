@@ -8,4 +8,4 @@ The project contains implementations of various information retrieval and questi
 
 ## Structure
 
-- `notebooks/`: Jupyter notebooks containing experiments and implementations
+- `/`: Jupyter notebooks containing experiments and implementations
