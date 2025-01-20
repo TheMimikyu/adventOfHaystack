@@ -64,13 +64,13 @@ This repository contains 10 projects demonstrating pipeline building with Haysta
     - Quality monitoring dashboards
 - Implements automated evaluation pipeline
 
-### 8. Santa's Backoffice Agent
+### 8. Inventory Management Agent with Custom Tools
 - Manages inventory tracking system
 - Implements RAG-based web search
 - Provides price checking functionality
 - Enables CRUD operations on inventory
 - Uses DuckDuckGo integration for web search
-### 9. Gift Selection Agent with MongoDB Atlas
+### 9. Self-Reflecting Gift Recommendation System
 - Leverages MongoDB Atlas vector search capabilities
 - Enhances semantic search using OpenAI embeddings
 - Generates personalized gift recommendations via GPT models  
