@@ -77,7 +77,7 @@ This repository contains 10 projects demonstrating pipeline building with Haysta
 - Implements advanced reasoning with self-reflection
 - Streamlines gift metadata management and organization
 
-### 10. RAG Pipeline Evaluation Harness
+### 10. Evaluating a RAG Pipeline with EvaluationHarness
 - Uses HotpotQA dataset for testing
 - Implements multiple evaluation metrics
 - Integrates with Hugging Face and OpenAI
