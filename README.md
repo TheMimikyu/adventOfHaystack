@@ -56,6 +56,12 @@ This repository contains 10 projects demonstrating pipeline building with Haysta
 - Enables multilingual embedding document grouping
 
 ### 7. Intelligent Toy Matching System & LLM Monitoring with Arize Phoenix
+
+
+https://github.com/user-attachments/assets/e35dd52b-0ed5-42db-b705-1e89bf8459ed
+
+
+
 - Creates personalized toy recommendations
 - Integrates Arize Phoenix for:
     - Real-time performance tracking
